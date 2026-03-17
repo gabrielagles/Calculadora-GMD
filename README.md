@@ -18,7 +18,7 @@ Funciona offline
 
 - Cálculos 
   - Ganho Médio Diário (GMD)
-  - Peso médio diário
+  - Peso médio 
   - Valor total
 
 - Funcionamento
